@@ -1,0 +1,10 @@
+{
+    "KPlugin": {
+        "Category": "Window Management",
+        "Description": "Traverse the real desktop stacking order without moving or copying windows",
+        "EnabledByDefault": false,
+        "License": "GPL-2.0-or-later",
+        "Name": "Desktop Depth Preview",
+        "Version": "1.0.0"
+    }
+}
