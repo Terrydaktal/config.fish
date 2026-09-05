@@ -51,4 +51,3 @@ user_pref("spellchecker.dictionary_path", "/usr/local/share/firefox-dictionaries
 user_pref("spellchecker.dictionary", "en-GB-large"); // Firefox normalises dictionary filename underscores to hyphens
 user_pref("layout.spellcheckDefault", 2); // 2 = Check all fields (including single-line inputs like search bars)
 user_pref("intl.accept_languages", "en-GB, en"); // Prefer British English content when a site supports it
-user_pref("intl.locale.requested", "en-US"); // Keep Firefox UI on the installed native locale; spellchecking remains en-GB-large
